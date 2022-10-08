@@ -6,7 +6,7 @@
 - 📧 Email: lucas.hbrd@gmail.com
 - Instagram: @Lucasszera
 - WhatsApp: 11 97345-5655
-- <img src="https://icons8.com.br/icon/ChMMcyjCQnEn/whatsapp">
+- <style>body{background-collor:white}</style>
 <!---
 Lucaszeera/Lucaszeera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
