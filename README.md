@@ -6,7 +6,7 @@
 - 📧 Email: lucas.hbrd@gmail.com
 - Instagram: @Lucasszera
 - WhatsApp: 11 97345-5655
-- <img src="http://starvistoria.com.br/wp-content/uploads/2021/05/Logo-WhatsApp.png">
+- <img src="https://icons8.com.br/icon/ChMMcyjCQnEn/whatsapp">
 <!---
 Lucaszeera/Lucaszeera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
