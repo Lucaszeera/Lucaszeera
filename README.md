@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot about development systems and upgrading my knowledges in programming languages
 - 💞️ I’m looking to collaborate on internet and with who wants join to me 
 - 📫 you can reach me and contact by :
-- 📧 Email: lucas.hbrd@gmail.com
+-     Email: lucas.hbrd@gmail.com
 -     Instagram: @Lucasszera
 -     WhatsApp: 11 97345-5655
 <!---
