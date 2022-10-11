@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on internet and with who wants join to me 
 - 📫 you can reach me and contact by :
 -     Email: lucas.hbrd@gmail.com
--     Instagram: @Lucasszera
+-     LinkedIn: linkedin.com/in/dev-lucas-costa
 -     WhatsApp: 11 97345-5655
 <!---
 Lucaszeera/Lucaszeera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
