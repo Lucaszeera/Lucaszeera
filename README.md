@@ -2,7 +2,7 @@
 - 👀 I’m interested to improve my relathionship with job market in Programming Area
 - 🌱 I’m currently learning a lot about development systems and improving my knowledges in programming languages
 - 💞️ I’m looking to collaborate on internet and with who wants join to me
-- 🎓 Check my resume: https://meu-portifolio-navy-alpha.vercel.app/
+- 🎓 Check my resume: [Portfolio-dev-Lucas](https://lucas-portfolio-amber.vercel.app/)
 <div>
   <a href="https://github.com/lucaszeera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaszeera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
